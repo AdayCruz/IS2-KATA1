@@ -23,7 +23,7 @@ public class Student {
     }
 
     public Date getBirthDate() {
-        return birthDate;
+        return BirthDate;
     }
     
     public int getAge() {
