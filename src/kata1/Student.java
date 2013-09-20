@@ -15,7 +15,7 @@ public class Student {
 
     public Student(String name, Date BirthDate) {
         this.name = name;
-        this.birthDate;
+        this.birthDate = BirthDate;
     }
 
     public String getName() {
